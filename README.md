@@ -12,6 +12,8 @@ First to install all dependencies-
 npm install
 ~~~~
 
+To create the database run the inventorydb.sql file.
+
 Then run the app-
 
 ~~~~
