@@ -14,6 +14,8 @@ npm install
 
 To create the database run the inventorydb.sql file.
 
+In line 42 of the app.js file change the password to your password.
+
 Then run the app-
 
 ~~~~
